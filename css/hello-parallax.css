@@ -28,10 +28,10 @@ footer a {
 
 .title {
   color: white;
-  font-weight: 100;
+  font-weight: 200;
   font-size: 2rem;
   font-family: 'Montserrat', sans-serif;
-  text-shadow: 2px 2px 2px #000, 3px 3px 5px rgb(0, 0, 3);
+  text-shadow: 0px 0px 15px #000, 3px 3px 5px rgb(0, 0, 3);
 }
 
 .oakfield-capital {
@@ -42,8 +42,8 @@ footer a {
 .subtitle {
   color: white;
   font-size: 1.2rem;
-  font-weight: 100;
-  text-shadow: 2px 2px 2px #000, 3px 3px 5px rgb(0, 0, 3);
+  font-weight: 400;
+  text-shadow: 0px 0px 15px #000, 3px 3px 5px rgb(0, 0, 3);
 }
 
 hr.content-divider {
